@@ -1,6 +1,7 @@
 ---
 title: Create E-mail Subscription Panel with Refine and Strapi
 description: We will make a web application that allows you to quickly create subscribers and send emails to your subscribers in a simple way. We’ll use Refine to develop the frontend easily and strapi for backend solutions.
+
 slug: e-mail-subscription-panel-with-refine
 authors: melih
 tags: [Refine, strapi, react, tutorial]
