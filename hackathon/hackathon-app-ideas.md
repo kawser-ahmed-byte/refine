@@ -101,5 +101,6 @@ Remember, these are just examples. Feel free to build any kind of CRUD applicati
 48. **Charity Donation Platform**: Users can find charities to donate to. Features could include charity profiles, a secure donation process, tracking of donations made, and user reviews.
 
 49. **Therapist Booking Platform**: Users can find and book appointments with therapists. Features could include therapist profiles, a booking and payment system, and user reviews.
+50. 
 
-50. **DIY Project Planning App**: Users can plan DIY projects and keep track of materials and steps. Features could include project templates, a material checklist creator, progress tracking, and a forum for DIY discussions.
+51. **DIY Project Planning App**: Users can plan DIY projects and keep track of materials and steps. Features could include project templates, a material checklist creator, progress tracking, and a forum for DIY discussions.
